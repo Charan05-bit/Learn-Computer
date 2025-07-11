@@ -5,6 +5,7 @@ the main part of this application is it teaches about all shortcut keys which ar
 we can also practice what we have learn from this application.
 
 # Computer Basics Tutorial Application 🖥️📱
+![image alt](https://github.com/Charan05-bit/Learn-Computer/blob/1b58ef26bb7ed3c7e5d96e510dc81f9642d12a47/Screenshot%20(32).png)
 A cross-platform application teaching fundamental computer skills through interactive lessons and hands-on practice sessions. Developed with **Python + Kivy**, this project demonstrates effective **AI-assisted development** through prompt engineering.
 
 ## Key Features ✨
